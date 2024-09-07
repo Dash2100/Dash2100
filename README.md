@@ -7,7 +7,7 @@
 - 請各位大佬們請多多指教！
 
 ## 技能
-- 💡 程式語言：Python, JavaScript, HTML/CSS
+- 💡 程式語言：Python, JavaScript, HTML/CSS, C#, C++, Arduino C
 - 🎨 前端開發：React, TailwindCSS
 - 🖥️ 後端開發：Node.js, Flask, Django
 - ☁️ 雲端技術：Cloudflare Workers, GCP
