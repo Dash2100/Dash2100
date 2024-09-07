@@ -9,12 +9,11 @@
 ## 技能
 - 💡 程式語言：Python, JavaScript, HTML/CSS
 - 🎨 前端開發：React, TailwindCSS
-- 🖥️ 後端開發：Node.js, Django, Flask
+- 🖥️ 後端開發：Node.js, Flask, Django
 - ☁️ 雲端技術：Cloudflare Workers, GCP
 - 🛠️ 開發工具：Git, VSCode, Docker
 - 📊 資料庫：MySQL, SQLite
-- 🎭 UI/UX設計：Figma
-- 📱 移動應用：React Native
+- 🎭 UI設計：Figma
 
 ## 聯繫方式
 - Discord: tony2100
