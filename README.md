@@ -2,7 +2,7 @@
 
 ## 關於我
 - 歡迎來到我的GitHub
-- 我是一名熱愛程式開發的大學生
+- 我是一名熱愛程式開發的學生
 - 這邊會分享平時開發和練習的Code
 - 請各位大佬們請多多指教！
 
@@ -11,8 +11,6 @@
 - 🎨 前端開發：React, TailwindCSS
 - 🖥️ 後端開發：Node.js, Flask, Django
 - ☁️ 雲端技術：Cloudflare Workers, GCP
-- 🛠️ 開發工具：Git, VSCode, Docker
-- 📊 資料庫：MySQL, SQLite
 - 🎭 UI設計：Figma
 
 ## 聯繫方式
