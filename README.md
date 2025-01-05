@@ -1,18 +1,16 @@
 # Hi there, I'm Tony2100👋
 
-## 關於我
-- 歡迎來到我的GitHub
-- 我是一名熱愛程式開發的學生
-- 這邊會分享平時開發和練習的Code
-- 請各位大佬們請多多指教！
+## About Me
+- I'm a student who loves programming
+- Here I share code from my development and practice
 
-## 技能
-- 💡 程式語言：Python, JavaScript, HTML/CSS, C#, C++, Arduino C
-- 🎨 前端開發：React, TailwindCSS
-- 🖥️ 後端開發：Node.js, Flask, Django
-- ☁️ 雲端技術：Cloudflare Workers, GCP
-- 🎭 UI設計：Figma
+## Skills
+- Programming Languages: Python, JavaScript, HTML/CSS, C#, C++, Arduino C
+- Frontend Development: React, TailwindCSS
+- Backend Development: Node.js, Flask, Django 
+- Cloud Technology: Cloudflare Workers, GCP
+- UI Design: Figma
 
-## 聯繫方式
+## Contact
 - Discord: tony2100
 - Email: tony@todev.me
